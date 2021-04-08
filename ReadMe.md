@@ -6,7 +6,7 @@
 
 + ___Performance on training data___
 
-<img src="https://github.com/pushkarjain1009/Binary-Image-Classifier/blob/master/Images/Figure_1.png" alt="Loss vs Epoches" width="300"/>         <img src="https://github.com/pushkarjain1009/Binary-Image-Classifier/blob/master/Images/Figure_2.png" alt="Accuracy vs Epoches" width="300"/>
+<img src="https://github.com/pushkarjain1009/Binary-Image-Classifier/blob/master/Images/Figure_1.png" alt="Loss vs Epoches" width="500"/>         <img src="https://github.com/pushkarjain1009/Binary-Image-Classifier/blob/master/Images/Figure_2.png" alt="Accuracy vs Epoches" width="500"/>
 
 + ___Performance on testing data___
 
