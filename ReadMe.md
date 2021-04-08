@@ -6,10 +6,10 @@
 
 + ___Performance on training data___
 
-<img src="https://github.com/pushkarjain1009/Binary-Image-Classifier/blob/master/Images/Figure_1.png" alt="Loss vs Epoches" width="500"/>
-<img src="https://github.com/pushkarjain1009/Binary-Image-Classifier/blob/master/Images/Figure_2.png" alt="Accuracy vs Epoches" width="500"/>
+<img src="https://github.com/pushkarjain1009/Binary-Image-Classifier/blob/master/Images/Figure_1.png" alt="Loss vs Epoches" width="300"/>
+<img src="https://github.com/pushkarjain1009/Binary-Image-Classifier/blob/master/Images/Figure_2.png" alt="Accuracy vs Epoches" width="300"/>
 
 + ___Performance on testing data___
 
 > Accuracy : 80%
-<img src="https://github.com/pushkarjain1009/Binary-Image-Classifier/blob/master/Images/Figure_3.png" alt="Prediction on test data" width="500"/>
+<img src="https://github.com/pushkarjain1009/Binary-Image-Classifier/blob/master/Images/Figure_3.png" alt="Prediction on test data" height="700" width="700"/>
