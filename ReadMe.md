@@ -4,3 +4,4 @@
 
 
 ![Loss vs Epoches](https://github.com/pushkarjain1009/Binary-Image-Classifier/blob/master/Images/Figure_1.png =100x100)
+<img src="https://github.com/pushkarjain1009/Binary-Image-Classifier/blob/master/Images/Figure_1.png" alt="Loss vs Epoches" width="200"/>
