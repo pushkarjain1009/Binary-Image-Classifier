@@ -1,5 +1,3 @@
 ## Binary Image Classifier 
 
-> The goal served through this repo is to understand how the model works, describe it; customize the model and teach it to recognize photos of cats. For which we have collected several images of different types of cats along with images without them to form a dataset. 
-> 
-> The goal is to make a binary classifier using an artificial neural network, which is used to classify pictures from the dataset.
+> It is a binary classifier built using an artificial neural network. This is being used to classify images of a dataset into two classes which are “cat” or “not cat”. The neural network is made from scratch with atomic units as neuron which contains the activation functions. The classifier is made in Python language with efficient use of concepts of object-oriented programming.
